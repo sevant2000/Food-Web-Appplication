@@ -1,0 +1,24 @@
+.usr{
+  display: block;
+  margin: auto;
+  width: 50%;
+  
+}
+.navbar{
+  background-color: rgb(28, 28, 70);
+  
+}
+.brand{
+  color: white;
+}
+.butt{
+  background-color: rgb(28, 28, 70);
+  color: white;
+}
+
+.out{
+  
+  display: block;
+  margin: auto;
+  width: 50%;
+}
